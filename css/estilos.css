@@ -1,7 +1,6 @@
 body {
   background: #eee;
-  zoom: 400%;
-  /*añadido mio*/
+  zoom: 420%;
 
 }
 
@@ -14,9 +13,7 @@ svg {
 }
 
 .filler {
-  /*background: #20B7AF;*/
-  /*background: black;*/
-  background: black;
+  background: #20B7AF;
   position: absolute;
   bottom: 50%;
   top: 0;
