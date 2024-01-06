@@ -1,3 +1,4 @@
+document.body.style.zoom = "170%"; 
 var hands = [];
 hands.push(document.querySelector('#secondhand > *'));
 hands.push(document.querySelector('#minutehand > *'));
