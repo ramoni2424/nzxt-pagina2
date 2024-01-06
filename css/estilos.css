@@ -1,6 +1,5 @@
 body {
   background: #eee;
-  /*zoom: 170%;*/
 }
 
 svg {
@@ -9,6 +8,7 @@ svg {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  zoom: 170%;
 }
 
 .filler {
