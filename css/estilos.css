@@ -1,6 +1,6 @@
 body {
   background: #eee;
-  zoom: 1000%;
+  zoom:var(100%);
 
 }
 
